@@ -28,3 +28,6 @@ Agricultural pests cause significant crop losses, and traditional manual pest de
 - **Image-based recognition** – Uses convolutional layers to detect complex patterns in images.
 - **Real-time monitoring potential** – Can be deployed in IoT-enabled smart farms.
 - **Sustainable Agriculture** – Reduces unnecessary pesticide use, preserving biodiversity.
+
+![Alt text](https://github.com/K26almulla/Agriculture-Pest-Classification/blob/main/6.jpg) 
+
